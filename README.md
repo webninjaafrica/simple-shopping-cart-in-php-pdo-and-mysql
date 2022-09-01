@@ -1,2 +1,2 @@
-# simple-shopping-cart-in-php-pdo-and-mysql
-a simple shopping cart in html,css, js, php and mysql (uses php PDO)
+# simple shopping cart in php and mysql
+ a simple shopping acrt in php and mysql. implementing php pdo
